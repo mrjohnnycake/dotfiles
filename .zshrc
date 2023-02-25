@@ -46,6 +46,9 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # ls alias
 alias la='ls -ahl'
 
+# VS Code
+alias code="open -a 'Visual Studio Code'"
+
 # add powerlevel10k
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
