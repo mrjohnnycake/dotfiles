@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-|2,0,1677437549,,"q"
 :wq
-|2,0,1677437351,,"wq"
+|2,0,1677438557,,"wq"
+:q
+|2,0,1677438470,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,36 +27,214 @@
 # Registers:
 
 # File marks:
-'0  27  0  ~/.profile
-|4,48,27,0,1677437549,"~/.profile"
+'0  56  24  ~/.config/zsh/.zshrc
+|4,48,56,24,1677438557,"~/.config/zsh/.zshrc"
 '1  1  0  ~/.zprofile
-|4,49,1,0,1677437534,"~/.zprofile"
-'2  55  21  ~/.config/zsh/.zshrc
-|4,50,55,21,1677437351,"~/.config/zsh/.zshrc"
-'3  1  0  ~/.config/zsh/.zshrc
-|4,51,1,0,1677437004,"~/.config/zsh/.zshrc"
-'4  1  0  ~/.config/zsh/.zshrc
-|4,52,1,0,1677437004,"~/.config/zsh/.zshrc"
-'5  1  0  ~/.config/zsh/.zshrc
-|4,53,1,0,1677436973,"~/.config/zsh/.zshrc"
-'6  1  0  ~/.config/zsh/.zshrc
-|4,54,1,0,1677436973,"~/.config/zsh/.zshrc"
-'7  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,55,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
+|4,49,1,0,1677438470,"~/.zprofile"
+'2  1  0  ~/.config/zsh/zsh.p10k.zsh
+|4,50,1,0,1677438306,"~/.config/zsh/zsh.p10k.zsh"
+'3  1  0  ~/.config/zsh/.p10k.zsh
+|4,51,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+'4  27  0  ~/.profile
+|4,52,27,0,1677437549,"~/.profile"
+'5  1  0  ~/.zprofile
+|4,53,1,0,1677437534,"~/.zprofile"
+'6  55  21  ~/.config/zsh/.zshrc
+|4,54,55,21,1677437351,"~/.config/zsh/.zshrc"
+'7  55  21  ~/.config/zsh/.zshrc
+|4,55,55,21,1677437351,"~/.config/zsh/.zshrc"
 '8  1  0  ~/.config/zsh/.zshrc
-|4,56,1,0,1677436863,"~/.config/zsh/.zshrc"
+|4,56,1,0,1677437004,"~/.config/zsh/.zshrc"
 '9  1  0  ~/.config/zsh/.zshrc
-|4,57,1,0,1677436863,"~/.config/zsh/.zshrc"
+|4,57,1,0,1677437004,"~/.config/zsh/.zshrc"
 
 # Jumplist (newest first):
+-'  56  24  ~/.config/zsh/.zshrc
+|4,39,56,24,1677438557,"~/.config/zsh/.zshrc"
+-'  1  0  ~/.config/zsh/.zshrc
+|4,39,1,0,1677438483,"~/.config/zsh/.zshrc"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677438470,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677438470,"~/.zprofile"
+-'  1  0  ~/.config/zsh/zsh.p10k.zsh
+|4,39,1,0,1677438306,"~/.config/zsh/zsh.p10k.zsh"
+-'  1  0  ~/.config/zsh/zsh.p10k.zsh
+|4,39,1,0,1677438306,"~/.config/zsh/zsh.p10k.zsh"
+-'  1  0  ~/.config/zsh/zsh.p10k.zsh
+|4,39,1,0,1677438306,"~/.config/zsh/zsh.p10k.zsh"
+-'  1  0  ~/.config/zsh/zsh.p10k.zsh
+|4,39,1,0,1677438306,"~/.config/zsh/zsh.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
+-'  1  0  ~/.config/zsh/.p10k.zsh
+|4,39,1,0,1677438269,"~/.config/zsh/.p10k.zsh"
 -'  27  0  ~/.profile
 |4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  27  0  ~/.profile
+|4,39,27,0,1677437549,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1677437543,"~/.profile"
 -'  1  0  ~/.profile
 |4,39,1,0,1677437543,"~/.profile"
 -'  1  0  ~/.zprofile
 |4,39,1,0,1677437534,"~/.zprofile"
 -'  1  0  ~/.zprofile
 |4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  1  0  ~/.zprofile
+|4,39,1,0,1677437534,"~/.zprofile"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
+-'  55  21  ~/.config/zsh/.zshrc
+|4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
 -'  55  21  ~/.config/zsh/.zshrc
 |4,39,55,21,1677437351,"~/.config/zsh/.zshrc"
 -'  55  21  ~/.config/zsh/.zshrc
@@ -71,201 +249,31 @@
 |4,39,1,0,1677437292,"~/.config/zsh/.zshrc"
 -'  1  0  ~/.config/zsh/.zshrc
 |4,39,1,0,1677437292,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677437292,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677437004,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677437004,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677437004,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677437004,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436973,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436973,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436973,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436973,"~/.config/zsh/.zshrc"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.cache/p10k-dump-administrator.zsh
-|4,39,1,0,1677436952,"~/.cache/p10k-dump-administrator.zsh"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436863,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/.config/zsh/.zshrc
-|4,39,1,0,1677436733,"~/.config/zsh/.zshrc"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
--'  1  0  ~/powerlevel10k/prompt_powerlevel10k_setup
-|4,39,1,0,1677436664,"~/powerlevel10k/prompt_powerlevel10k_setup"
 
 # History of marks within files (newest to oldest):
+
+> ~/.config/zsh/.zshrc
+	*	1677438535	0
+	"	56	24
+	^	56	25
+	.	55	24
+	+	55	24
+
+> ~/.zprofile
+	*	1677438461	0
+	"	1	0
+
+> ~/.config/zsh/zsh.p10k.zsh
+	*	1677438274	0
+	"	1	0
+
+> ~/.config/zsh/.p10k.zsh
+	*	1677438245	0
+	"	1	0
 
 > ~/.profile
 	*	1677437547	0
 	"	27	0
-
-> ~/.zprofile
-	*	1677437533	0
-	"	1	0
-
-> ~/.config/zsh/.zshrc
-	*	1677437343	0
-	"	55	21
-	^	56	22
-	.	55	58
-	+	55	58
 
 > ~/.cache/p10k-dump-administrator.zsh
 	*	1677436950	0

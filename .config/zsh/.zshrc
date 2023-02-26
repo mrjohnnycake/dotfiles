@@ -52,5 +52,5 @@ alias code="open -a 'Visual Studio Code'"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/zsh.p10k.zsh
+[[ ! -f ~/.config/zsh/zsh.p10k.zsh ]] || source ~/.config/zsh/zsh.p10k.zsh
 POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
