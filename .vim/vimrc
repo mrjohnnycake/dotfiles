@@ -5,6 +5,8 @@ set viminfo+=n~/.vim/viminfo
 
 colorscheme molokai
 
+set mouse=a
+
 " Enable type file detection. Vim will be able to try to detect the type of file in use
 filetype on
 

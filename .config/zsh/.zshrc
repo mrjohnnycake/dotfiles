@@ -49,7 +49,7 @@ alias la='ls -ahl | grep "^d" && ls -la | grep -v "^d"'
 alias code="open -a 'Visual Studio Code'"
 
 # add powerlevel10k
-source ~/powerlevel10k/powerlevel10k.zsh-theme
+source ~/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.config/zsh/zsh.p10k.zsh ]] || source ~/.config/zsh/zsh.p10k.zsh
