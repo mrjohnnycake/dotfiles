@@ -19,7 +19,6 @@ bindkey -e
 # Keep 1000 lines of history within the shell and save it to ~/.zsh_history:
 HISTSIZE=1000
 SAVEHIST=1000
-HISTFILE=~/.zsh_history
 
 # Use modern completion system
 autoload -Uz compinit
@@ -44,7 +43,7 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 # ls alias
-alias la='ls -ahl'
+alias la='ls -ahl | grep "^d" && ls -la | grep -v "^d"'
 
 # VS Code
 alias code="open -a 'Visual Studio Code'"
@@ -53,4 +52,5 @@ alias code="open -a 'Visual Studio Code'"
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/zsh.p10k.zsh
+POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
