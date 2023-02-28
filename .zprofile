@@ -1,5 +1,5 @@
 # Profile file. Runs at login. Environmental variables are set here.
-
+#
 # Adds `~/.local/bin` to $PATH
 export PATH="$PATH:$HOME/.local/bin/:$HOME/.local/bin/personal"
 
