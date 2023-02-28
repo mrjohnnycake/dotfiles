@@ -42,11 +42,8 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-# ls alias
-alias la='ls -ahl | grep "^d" && ls -la | grep -v "^d"'
-
 # VS Code
-alias code="open -a 'Visual Studio Code'"
+# alias code="open -a 'Visual Studio Code'"
 
 # add powerlevel10k
 source ~/.config/zsh/powerlevel10k/powerlevel10k.zsh-theme
