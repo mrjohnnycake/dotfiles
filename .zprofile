@@ -2,6 +2,7 @@
 
 # Adds `~/.local/bin` to $PATH
 export PATH="$PATH:$HOME/.local/bin/:$HOME/.local/bin/personal"
+export STARSHIP_CONFIG=~/.config/zsh/starship.toml
 
 # Default Programs
 export EDITOR="vim"
