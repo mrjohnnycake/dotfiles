@@ -2,15 +2,15 @@
 
 # Adds `~/.local/bin` to $PATH
 export PATH="$PATH:$HOME/.local/bin/:$HOME/.local/bin/personal"
-export STARSHIP_CONFIG=~/.config/zsh/starship.toml
 
 # Default Programs
 export EDITOR="vim"
 export BROWSER="chrome"
 
-# Home folder clean-up
+# Folder clean-ups
 export ZDOTDIR="$HOME/.config/zsh"
 export HISTFILE="$HOME/.config/zsh/.zsh_history"
+export STARSHIP_CONFIG=~/.config/zsh/starship.toml
 
 function yc { # commit with a message
   yadm commit -a -m "$1"
