@@ -1,13 +1,13 @@
 format = """
-[  ](bg:#FD6600 fg:#000000)\
-[](bg:#1874D2 fg:#FD6600)\
+[  ](bg:#FB8500 fg:#000000)\
+[](bg:#023047 fg:#FB8500)\
 $username\
-[](bg:#FECC98 fg:#1874D2)\
+[](bg:#8ECAE6 fg:#023047)\
 $directory\
-[](fg:#FECC98 bg:#040084)\
+[](fg:#8ECAE6 bg:#FFB703)\
 $git_branch\
 $git_status\
-[](fg:#040084 bg:#FFFFFF)\
+[](fg:#FFB703 bg:#FFFFFF)\
 $cmd_duration\
 [ ](fg:#FFFFFF)\
 """
@@ -22,7 +22,7 @@ $cmd_duration\
 # and use the os module below
 [username]
 show_always = true
-style_user = "bg:#1874D2 fg:#FFFFFF"
+style_user = "bg:#023047 fg:#FFFFFF"
 style_root = "bg:#9A348E"
 format = '[ $user ]($style)'
 disabled = false
@@ -35,7 +35,7 @@ disabled = false
 # disabled = false
 
 [directory]
-style = "bg:#FECC98 fg:#000000"
+style = "bg:#8ECAE6 fg:#000000"
 format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
@@ -75,11 +75,11 @@ format = '[ $symbol ($version) ]($style)'
 
 [git_branch]
 symbol = ""
-style = "bg:#040084"
+style = "bg:#FFB703 fg:#000000"
 format = '[ $symbol $branch ]($style)'
 
 [git_status]
-style = "bg:#040084"
+style = "bg:#FFB703 fg:#000000"
 format = '[$all_status$ahead_behind ]($style)'
 
 [golang]
@@ -135,4 +135,4 @@ format = '[ ♥ $cmd_duration ]($style)'
 [cmd_duration]
 min_time = 500
 style = "bg:#FFFFFF fg:#000000"
-format = '[ took $duration ]($style)'
+format = '[ $duration ]($style)'
