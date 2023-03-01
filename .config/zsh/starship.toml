@@ -1,13 +1,13 @@
 format = """
-[  ](bg:#ffffff fg:#000000)\
-[](bg:#2B4FFF fg:#ffffff)\
+[  ](bg:#FD6600 fg:#000000)\
+[](bg:#1874D2 fg:#FD6600)\
 $username\
-[](bg:#DA627D fg:#2B4FFF)\
+[](bg:#FECC98 fg:#1874D2)\
 $directory\
-[](fg:#DA627D bg:#FCA17D)\
+[](fg:#FECC98 bg:#040084)\
 $git_branch\
 $git_status\
-[](fg:#FCA17D bg:#FFFFFF)\
+[](fg:#040084 bg:#FFFFFF)\
 $cmd_duration\
 [ ](fg:#FFFFFF)\
 """
@@ -22,7 +22,7 @@ $cmd_duration\
 # and use the os module below
 [username]
 show_always = true
-style_user = "bg:#2B4FFF fg:#FFFFFF"
+style_user = "bg:#1874D2 fg:#FFFFFF"
 style_root = "bg:#9A348E"
 format = '[ $user ]($style)'
 disabled = false
@@ -30,12 +30,12 @@ disabled = false
 # An alternative to the username module which displays a symbol that
 # represents the current operating system
 # [os]
-# style = "bg:#DA627D fg:000000"
+# style = "bg:#FD6600 fg:000000"
 # format = '[$os]($style)'
 # disabled = false
 
 [directory]
-style = "bg:#DA627D"
+style = "bg:#FECC98 fg:#000000"
 format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
@@ -75,11 +75,11 @@ format = '[ $symbol ($version) ]($style)'
 
 [git_branch]
 symbol = ""
-style = "bg:#FCA17D"
+style = "bg:#040084"
 format = '[ $symbol $branch ]($style)'
 
 [git_status]
-style = "bg:#FCA17D"
+style = "bg:#040084"
 format = '[$all_status$ahead_behind ]($style)'
 
 [golang]
