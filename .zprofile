@@ -14,11 +14,15 @@ export HISTFILE="$HOME/.config/zsh/.zsh_history"
 function yc { # commit with a message
   yadm commit -a -m "$1"
 }
-
 function yp { # commit with a message
   yadm push
 }
-
+function ya { # what it looks like
+  yadm add $1
+}
+function ys { # what it looks like
+  yadm status
+}
 function la { # sort directories and files
-  ls -ahl $1 | grep "^d" && ls -la | grep -v "^d"
+  ls --color -ahl --group-directories-first $1
 }
