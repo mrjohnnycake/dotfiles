@@ -1,5 +1,5 @@
 format = """
-[  ](bg:#FB8500 fg:#000000)\
+[  ](bg:#FB8500 fg:#1A1A1A)\
 [](bg:#023047 fg:#FB8500)\
 $username\
 [](bg:#8ECAE6 fg:#023047)\
@@ -7,9 +7,9 @@ $directory\
 [](fg:#8ECAE6 bg:#FFB703)\
 $git_branch\
 $git_status\
-[](fg:#FFB703 bg:#FFFFFF)\
+[](fg:#FFB703 bg:#F1F1F1)\
 $cmd_duration\
-[ ](fg:#FFFFFF)\
+[ ](fg:#F1F1F1)\
 """
 
 # A continuation prompt that displays two filled in arrows
@@ -22,7 +22,7 @@ $cmd_duration\
 # and use the os module below
 [username]
 show_always = true
-style_user = "bg:#023047 fg:#FFFFFF"
+style_user = "bg:#023047 fg:#F1F1F1"
 style_root = "bg:#9A348E"
 format = '[ $user ]($style)'
 disabled = false
@@ -35,7 +35,8 @@ disabled = false
 # disabled = false
 
 [directory]
-style = "bg:#8ECAE6 fg:#000000"
+style = "bg:#8ECAE6 fg:#1A1A1A"
+home_symbol = " ~"
 format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
@@ -75,11 +76,11 @@ format = '[ $symbol ($version) ]($style)'
 
 [git_branch]
 symbol = ""
-style = "bg:#FFB703 fg:#000000"
+style = "bg:#FFB703 fg:#1A1A1A"
 format = '[ $symbol $branch ]($style)'
 
 [git_status]
-style = "bg:#FFB703 fg:#000000"
+style = "bg:#FFB703 fg:#1A1A1A"
 format = '[$all_status$ahead_behind ]($style)'
 
 [golang]
@@ -134,5 +135,5 @@ format = '[ ♥ $cmd_duration ]($style)'
 
 [cmd_duration]
 min_time = 500
-style = "bg:#FFFFFF fg:#000000"
+style = "bg:#F1F1F1 fg:#1A1A1A"
 format = '[ $duration ]($style)'
