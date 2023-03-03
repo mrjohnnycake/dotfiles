@@ -1,6 +1,10 @@
 " Disable compatibility with vi which can cause unexpected issues "
 set nocompatible
 
+" Show two lines of status- one for the file name and its path and one for commands
+set laststatus=2
+set statusline+=%F
+
 set viminfo+=n~/.vim/viminfo
 
 colorscheme molokai
