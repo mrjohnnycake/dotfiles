@@ -6,3 +6,6 @@ rm ~/.bashrc
 rm ~/.profile
 rm ~/.viminfo
 rm ~/.vimrc
+rm ~/.zcompdump
+rm ~/.zsh_history
+rm ~/.zshrc
