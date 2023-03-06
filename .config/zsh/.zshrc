@@ -6,11 +6,8 @@
 # [[ -f ~/.config/zsh/goto.zsh ]] && source ~/.config/zsh/goto.zsh
 
 export HISTFILE="$HOME/.config/zsh/.zsh_history"
-
-# export HISTFILESIZE=1000
-
-#set history size
 export HISTSIZE=10000
+
 #save history after logout
 export SAVEHIST=10000
 #append into history file

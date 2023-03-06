@@ -9,11 +9,7 @@ export BROWSER="chrome"
 
 # Folder clean-ups
 export ZDOTDIR="$HOME/.config/zsh"
-# export HISTFILE="$HOME/.config/zsh/.zsh_history"
 export STARSHIP_CONFIG=~/.config/zsh/starship.toml
-
-HISTFILESIZE=1000
-HISTSIZE=1000
 
 function yc { # commit with a message
   yadm commit -a -m "$1"
