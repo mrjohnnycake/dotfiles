@@ -14,8 +14,11 @@ export STARSHIP_CONFIG=~/.config/zsh/starship.toml
 function yc { # commit with a message
   yadm commit -a -m "$1"
 }
-function yp { # commit with a message
+function yps { # commit with a message
   yadm push
+}
+function ypl {
+  yadm pull
 }
 function ya { # what it looks like
   yadm add $1
