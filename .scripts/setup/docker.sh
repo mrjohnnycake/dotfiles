@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt install ca-certificates curl
+sudo apt install ca-certificates curl docker.io
 
 sudo install -m 0755 -d /etc/apt/keyrings
 
