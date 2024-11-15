@@ -5,6 +5,7 @@
 # [[ -f ~/.config/zsh/wsl2fix.zsh ]] && source ~/.config/zsh/wsl2fix.zsh
 # [[ -f ~/.config/zsh/goto.zsh ]] && source ~/.config/zsh/goto.zsh
 
+source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
 #source ~/.config/zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
 export HISTFILE="$HOME/.config/zsh/.zsh_history"
